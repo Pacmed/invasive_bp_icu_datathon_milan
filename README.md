@@ -1,5 +1,4 @@
-# Under Pressure
-## Predicting the relationship between non-invasive and invasive blood pressure in the ICU
+# Under Pressure – Predicting the relationship between non-invasive and invasive blood pressure in the ICU
 
 
 
