@@ -8,7 +8,7 @@ Code developed by Team 7 at the 2019 Critical Care Datathon in Milan, Italy.
 
 https://dat-icm-milan.com/
 
-<img src="img/data-icm.png" width="450">
+<img src="img/dat-icm.png" width="450">
 
 ## Queries
 
