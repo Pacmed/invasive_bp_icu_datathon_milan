@@ -1,4 +1,4 @@
-# Under Pressure – Predicting the relationship between non-invasive and invasive blood pressure in the ICU
+# Under Pressure – Accurate prediction of central blood pressure from radial blood pressure in the ICU
 
 <img src="https://i2.wp.com/dat-icm-milan.com/wp-content/uploads/2018/10/facebook_meta-1.png" width="450">
 
